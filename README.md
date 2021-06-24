@@ -51,7 +51,7 @@
 <a href="" target="blank"><img src="./img/CEH.png" alt="CEH" height="150" width="150" /></a>
 <a href="" target="blank"><img src="./img/CEHPRACTICAL.png" alt="CEH PRACTICAL" height="150" width="150" /></a>
 <a href="" target="blank"><img src="./img/CEHMASTER.png" alt="CEH MASTER" height="150" width="150" /></a>
-<a href="" target="blank"><img src="./img/ccna-routing-switching.jpg" alt="CEH MASTER" height="140" width="140" /></a>
+<a href="" target="blank"><img src="./img/ccna-routing-switching.png" alt="CEH MASTER" height="150" width="150" /></a>
 </p>
 
 -----
