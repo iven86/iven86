@@ -1,10 +1,13 @@
+<img padding="10px 10px 10px 10px" align="center" alt="Iven's GitHub" src="./img/cover.png" height="300">
+
 <h1> Hi there 👋 </h1>
 <p> I am Iven. I Love ❤️ coding, DevOps and penetration test. </p>
 
-<img padding="10px 10px 10px 10px" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" width="300">
 <h3> Language & Skills: </h3>
 
 - Python
+- Django
+- Docker
 - Penetration Test
 - CTF
 - Web Development
@@ -44,7 +47,7 @@
 **Other Projects**
 
 [![pyenv](https://img.shields.io/badge/-pyenv-000000?style=flat&logo=git&logoColor=F05032)](https://github.com/iven86/pyenv)
-
+![ROOT_CTF](https://img.shields.io/badge/-ROOT_CTF-000000?style=flat&logo=sharp)
 
 -----
 <h3 >Certificates: </h3>
