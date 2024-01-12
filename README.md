@@ -1,7 +1,7 @@
 <img padding="10px 10px 10px 10px" align="center" alt="Iven's GitHub" src="./img/cover.png" height="300">
 
-<h1> Hi there 👋 </h1>
-<p> I am Iven. I Love ❤️ coding, DevOps and penetration test. </p>
+<h1> Greetings! 👋 </h1>
+<p> I'm Iven, and I have a passion for coding, diving into DevOps challenges, and exploring the world of penetration testing. My enthusiasm lies in bringing innovative solutions to the tech landscape. </p>
 
 <h3> Language & Skills: </h3>
 
@@ -11,7 +11,6 @@
 - Penetration Test
 - CTF
 - Web Development
-- App Development
 
 <h4>Things got bugs, gonna smash them one by one</h4>
 
