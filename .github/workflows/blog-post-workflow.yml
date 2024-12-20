@@ -16,4 +16,4 @@ jobs:
       - name: Pull in iven.in posts
         uses: iven86/blog-post-workflow@master
         with:
-          feed_list: "https://iven.in/feed.xml"
+          feed_list: "https://iven.in/feed"
