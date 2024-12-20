@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: iven86/iven86@v1
+        uses: iven86/iven86@main
         with:
           feed_list: "https://iven.in/feed.xml"
