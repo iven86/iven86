@@ -1,8 +1,14 @@
-<img src="./img/cover.png" alt="Iven's GitHub" align="center" style="padding: 10px;" height="300">
+![Iven's GitHub Banner](./img/cover.jpg)
+
 
 # Greetings! 👋
 
-Hi, I'm **Iven**! I'm passionate about coding, tackling DevOps challenges, and exploring the fascinating world of penetration testing. My mission is to craft innovative solutions and leave a positive mark on the tech landscape.
+Hi, I'm **Iven**! I'm a skilled IT professional with over 15 years of experience in
+Linux/Windows system administration, cybersecurity, networking (CCNA
+certified), and automation (Python, Bash scripting). I have a proven ability to
+develop secure, scalable IT infrastructures, troubleshoot complex
+systems, and mentor junior staff. I'm passionate about leveraging
+technology to improve security, efficiency, and system reliability.
 
 ---
 
@@ -10,8 +16,9 @@ Hi, I'm **Iven**! I'm passionate about coding, tackling DevOps challenges, and e
 
 ### Programming
 - Advanced Python (automation, penetration testing)
-- Dart (Flutter) for cross-platform app development
+- SQL for database management and reporting
 - Django for web development
+- Bash scripting for system tasks and automation in Linux environments
 
 ### Security
 - **Certified Ethical Hacker (CEH)** certifications
@@ -63,6 +70,7 @@ Hi, I'm **Iven**! I'm passionate about coding, tackling DevOps challenges, and e
 ### Development Projects
 - [PyEnv Manager](https://github.com/iven86/pyenv): Python environment manager for efficient project development.
 - [ROOT_CTF](https://github.com/iven86): Capture-the-Flag challenges for cybersecurity enthusiasts.
+- [SQLite MCP Server](https://github.com/iven86/sqlite-mcp-server): A modular Model Context Protocol (MCP) server for SQLite database operations with HTTP API support.
 
 ---
 
@@ -92,14 +100,14 @@ Hi, I'm **Iven**! I'm passionate about coding, tackling DevOps challenges, and e
 - **Blog**: [Iven's Blog](http://www.iven.in/)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/iven86/)
 - **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ivenprvb@gmail.com)
-- **Resume**: [View Here]()
 
 ---
 
 ## ⚡ Fun Fact
 
-I love working with **Visual Studio Code**: 
-![VS Code](https://img.shields.io/badge/-visual_studio-000000?style=flat-square&logo=visual-studio&logoColor=0000FF)
+I love working with **Visual Studio Code**:
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -127,8 +135,9 @@ I love working with **Visual Studio Code**:
 
 ## 🚀 Other Projects
 
-[![pyenv](https://img.shields.io/badge/-pyenv-000000?style=flat&logo=git&logoColor=F05032)](https://github.com/iven86/pyenv)
+[![SQLite MCP Server](https://img.shields.io/badge/-SQLite_MCP_Server-000000?style=flat&logo=sqlite&logoColor=44A833)](https://github.com/iven86/sqlite-mcp-server)
 ![ROOT_CTF](https://img.shields.io/badge/-ROOT_CTF-000000?style=flat&logo=sharp)
+[![pyenv](https://img.shields.io/badge/-pyenv-000000?style=flat&logo=git&logoColor=F05032)](https://github.com/iven86/pyenv)
 
 ---
 
