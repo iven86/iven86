@@ -149,9 +149,9 @@ I love working with **Visual Studio Code**:
 
 # Latest blog post
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First MCP Server, A Complete Beginner&#39;s Guide](https://iven86.github.io/posts/Building-Your-First-MCP-Server/)
+- [Building Your First MCP Server, A Complete Beginner&#39;s Guide](https://iven86.github.io/posts/Building-Your-First-MCP-Server/)
 - [SQLite MCP Server - A Game-Changer for Development Workflows](https://iven86.github.io/posts/SQLite-MCP-Server/)
 - [SQLite MCP Server - A Game-Changer for Development Workflows](https://iven86.github.io/posts/SQLite-MCP-Server/)
 - [HTB Poison Walkthrough - A Deep Dive into FreeBSD Exploitation](https://iven86.github.io/posts/Poison/)
-- [HTB Nineveh Writeup &lpar;Walkthrough&rpar;](https://iven86.github.io/posts/Nineveh/)
-- [HTB Lame Writeup &lpar;Walkthrough&rpar;](https://iven86.github.io/posts/Lame/)
 <!-- BLOG-POST-LIST:END -->
